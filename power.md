@@ -13,8 +13,8 @@ At a high level this will generally involve:
 
  * Building a usable prototype
    * Getting consensus changes merged into [inquisition](https://github.com/bitcoin-inquisition/bitcoin/) and activated on signet.
-   * Making and maintaining your own bitcoin-core fork and rolling your
-     own signet/regtest for people to experiment on.
+   * Making and maintaining your own fork of Bitcoin node software and rolling your
+     own signet/regtest chain for people to experiment on.
    * Deploying the feature on Liquid, or Liquid Testnet, or Chia, or
      some other chain with a "coin" model (rather than an "account" one)
  * Make a step-by-step tutorial on how users can try out the prototypes
