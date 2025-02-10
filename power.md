@@ -30,3 +30,5 @@ The main goals of progressing through this phase are:
 
 The latter point is especially key in order to make progress through the next
 phase.
+
+![](img/power.jpg)
