@@ -19,8 +19,9 @@ The process of establishing social consensus is split into four stages:
 
 Once social consensus is established and robust, it is comparatively
 straightforward to then deploy the consensus code changes, giving the
-final phase:
+final two phases:
 
+ * [Finalization](finalization)
  * [Activation](activation)
 
 | ![bfg discussings the bfg](img/bfg.jpg) |
