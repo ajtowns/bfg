@@ -23,5 +23,5 @@ final phase:
 
  * [Activation](activation)
 
-![bfg discussings the bfg](img/bfg.jpg)
-*A Big Friendly Giant reads ths Bitcoin Forking Guide*
+| ![bfg discussings the bfg](img/bfg.jpg) |
+| *A Big Friendly Giant reads the Bitcoin Forking Guide* |
