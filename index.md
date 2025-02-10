@@ -4,9 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Bitcoin Forking Guide
-
-## Approach
+# Approach
 
 This guide advocates the approach of ***consensus before consensus***
 that it is important to establish social consensus in favour of a change
@@ -20,8 +18,10 @@ The process of establishing social consensus is split into four stages:
  4. [Investor Review](investor)
 
 Once social consensus is established and robust, it is comparatively
-straightforward to then deploy the consensus code changes.
+straightforward to then deploy the consensus code changes, giving the
+final phase:
 
  * [Activation](activation)
 
 ![bfg discussings the bfg](img/bfg.jpg)
+*A Big Friendly Giant reads ths Bitcoin Forking Guide*
