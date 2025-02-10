@@ -19,5 +19,9 @@ The process of establishing social consensus is split into four stages:
  3. [Industry Evaluation](industry)
  4. [Investor Review](investor)
 
+Once social consensus is established and robust, it is comparatively
+straightforward to then deploy the consensus code changes.
 
-![bfg discussings the bfg](bfg.jpg)
+ * [Activation](activation)
+
+![bfg discussings the bfg](img/bfg.jpg)
