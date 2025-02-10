@@ -16,7 +16,7 @@ The process of establishing social consensus is split into four stages:
 
  1. [Research and Development](research)
  2. [Power User Exploration](power)
- 3. [Industry Evalaution](industry)
+ 3. [Industry Evaluation](industry)
  4. [Investor Review](investor)
 
 
