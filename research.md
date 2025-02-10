@@ -1,7 +1,7 @@
 ---
 title: Research and Development
-nav_order: 1
 layout: default
+nav_order: 2
 ---
 
 # Research and Development Phase
