@@ -1,3 +1,7 @@
+---
+title: Home
+layout: home
+---
 
 # Bitcoin Forking Guide
 
