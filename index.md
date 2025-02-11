@@ -29,26 +29,31 @@ consensus code changes, giving the final two phases:
 
 This guide categorises participants into the following roles:
 
- * Researchers -- Academic interest in Bitcoin related areas, and detailed
-   high-level research, worst case analysis, etc.
- * Power Users -- People who have a practical interest in Bitcoin,
-   and a high-level of willingness to experiment with new things.
- * Protocol Developers -- People who implement/review consensus logic.
- * Industry -- People who builds software and services that take advantage
-   of and rely on Bitcoin. The technical/programmer part of Bitcoin businesses.
- * Entrepreneurs -- The risk-seeking part of Bitcoin businesses.
- * Investors -- People who hold Bitcoin as a store of value
- * Miners -- People who participate in block-building and transaction
-   ordering (particularly pool maintainers, hashrate controllers)
- * Auditors -- People who audit Bitcoin’s supply and ownership (the
-   accounting/financial side; see "Protocol Developers" for the coding
-   side)
- * Maintainers -- People who maintain and release node software
+ * Independent technical experts
+   * **Researchers** -- Academic interest in Bitcoin related areas, and detailed
+     high-level research, worst case analysis, etc.
+   * **Protocol Developers** -- People who implement/review consensus logic.
+   * **Power Users** -- People who have a practical interest in Bitcoin,
+     and a high-level of willingness to experiment with new things in the Bitcoin
+     space.
+   * **Maintainers** -- People who maintain and release node software
+ * Bitcoin businesses
+   * **Industry** -- People who build software and services that take advantage
+     of and rely on Bitcoin. The technical/programmer side of Bitcoin businesses.
+   * **Entrepreneurs** -- The risk-seeking side of Bitcoin businesses.
+   * **Miners** -- People who participate in block-building and transaction
+     ordering (particularly pool maintainers, hashrate controllers)
+ * Oversight
+   * **Investors** -- People who hold Bitcoin as a store of value, invest in Bitcoin
+     businesses, etc.
+   * **Auditors** -- People who audit Bitcoin's supply and ownership (the
+     accounting/financial side; see "Protocol Developers" for the coding
+     side)
 
 These roles are not in any way exclusive; for example many Protocol
 Developers will also be Researchers or part of Industry, many Miners
-will also be Entrepreneurs, and many people who have another role will
-also be Investors.
+will also be Entrepreneurs to some degree, and many people who have
+another role will also be Investors.
 
 | ![bfg discussings the bfg](img/bfg.jpg) |
 | *A Big Friendly Giant reads the Bitcoin Forking Guide* |
