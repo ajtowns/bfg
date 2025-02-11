@@ -6,6 +6,9 @@ nav_order: 2
 
 # Research and Development Phase
 
+| Work : **Researchers** |
+| Buy-In : **Researchers**, **Protocol Developers** |
+
 The first step in building support for your idea should be to get
 researchers and developers on board.
 

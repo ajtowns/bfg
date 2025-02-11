@@ -6,6 +6,9 @@ nav_order: 5
 
 # Investor Review Phase
 
+| Buy-In : **Investors**, **Miners**, **Auditors** |
+| Support : **Researchers**, **Protocol Developers**, **Power Users**, **Industry** |
+
 In some sense investors always get the final word on what "Bitcoin" is --
 they decide what software they run to audit their ownership and global
 supply, they collectively decide what the ticker points at, they decide

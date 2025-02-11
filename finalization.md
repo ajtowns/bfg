@@ -6,6 +6,8 @@ nav_order: 6
 
 # Finalization
 
+| Work : **Protocol Developers**, **Maintainers** |
+
 Once everybody's on board with the proposal, then it it time for the
 final steps:
 

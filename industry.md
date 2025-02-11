@@ -6,6 +6,10 @@ nav_order: 4
 
 # Industry Evaluation Phase
 
+| Work : **Industry**, **Protocol Developers** |
+| Buy-In : **Industry** |
+| Monitor : *Researchers*, *Power Users* |
+
 Most changes to Bitcoin will have some impact on existing Bitcoin
 businesses. This phase is about ensuring that those impacts are
 understood, and that any negative impacts are far outweighed by the

@@ -6,6 +6,8 @@ nav_order: 7
 
 # Activation Phase
 
+| Work : **Maintainers**, **Auditors**, **Miners** |
+
 Once broad consensus has been established, the BIPs are written, the tests
 are complete, and the code has been merged, it's time for activation. Provided
 all the previous steps were taken, this can be the easiest part of the process.
