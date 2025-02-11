@@ -37,18 +37,19 @@ This guide categorises participants into the following roles:
      and a high-level of willingness to experiment with new things in the Bitcoin
      space.
    * **Maintainers** -- People who maintain and release node software
+     such as Bitcoin Core.
  * Bitcoin businesses
    * **Industry** -- People who build software and services that take advantage
      of and rely on Bitcoin. The technical/programmer side of Bitcoin businesses.
    * **Entrepreneurs** -- The risk-seeking side of Bitcoin businesses.
    * **Miners** -- People who participate in block-building and transaction
-     ordering (particularly pool maintainers, hashrate controllers)
+     ordering (particularly pool maintainers, hashrate controllers).
  * Oversight
    * **Investors** -- People who hold Bitcoin as a store of value, invest in Bitcoin
      businesses, etc.
    * **Auditors** -- People who audit Bitcoin's supply and ownership (the
      accounting/financial side; see "Protocol Developers" for the coding
-     side)
+     side).
 
 These roles are not in any way exclusive; for example many Protocol
 Developers will also be Researchers or part of Industry, many Miners
