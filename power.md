@@ -6,6 +6,10 @@ nav_order: 3
 
 # Power User Exploration Phase
 
+| Work : **Protocol Developers** |
+| Buy-In : **Power Users** |
+| Monitor : *Researchers*, *Maintainers* |
+
 The second step in building support for your idea should be to make
 something concrete that people can use to explore your idea further.
 
