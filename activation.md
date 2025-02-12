@@ -34,8 +34,11 @@ There are two approaches that can be taken here:
      will have upgraded to new versions of their node software that
      enforce the new rules.
    * This does not rely on miner support or signalling.
-   * If there was not a true consensus for adoption of the change, this approach
-     does not provide a way to detect that failure until a chainsplit 
+   * If there was not a true consensus for adoption of the change,
+     this approach does not provide a way to detect that failure other
+     than via a potential chainsplit (either as part of activation via
+     mandatory signalling, or post-activation via an attempt to violate
+     the new rules).
 
 Provided the previous phases were all followed in good faith, both approaches are
 likely to work without any problems. The approach recommended here is as follows:
