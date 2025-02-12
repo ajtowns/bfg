@@ -1,4 +1,15 @@
 title: Bitcoin Forking Guide
+description: A guide to building consensus for changes to Bitcoin
 theme: just-the-docs
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      image: img/bfg.jpg
+
+plugins:
+  - jekyll-seo-tag
 
 search_enabled: false
