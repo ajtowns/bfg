@@ -45,11 +45,11 @@ than participating in a fork's development equally at every phase.
 
 For the independent technical expert roles, this is expected to look like:
 
- * Researchers: Primarily the [R&D](research) phase, but also monitoring
+ * **Researchers**: Primarily the [R&D](research) phase, but also monitoring
    the [Power User](power) and [Industry](industry) phases, and supporting
    [Investors](investor) in their evaluation.
 
- * Protocol Developers: Significant work in both developing a usable
+ * **Protocol Developers**: Significant work in both developing a usable
    prototype in the [Power User](power) phase, and producing a high
    quality final implementation in the [Finalization](finalization)
    phase. Also watching of the [R&D](research) phase to see what's worth
@@ -57,12 +57,12 @@ For the independent technical expert roles, this is expected to look like:
    phase in case updates to the prototype implementation are needed,
    and supporting [Investors](investor) in their evaluation.
 
- * Power Users: Mostly focussed on the [Power User](power) phase, but
+ * **Power Users**: Mostly focussed on the [Power User](power) phase, but
    also monitoring any interesting advances during the
    [Industry](industry) phase, and supporting [Investors](investor)
    in their evaluation.
 
- * Maintainers: Mostly focussed on reviewing the high quality final
+ * **Maintainers**: Mostly focussed on reviewing the high quality final
    implementation produced in the [Finalization](finalization) phase,
    and to a lesser extent ensuring [Activation](activation) also runs
    smoothly. May also check over the prototype developed for [Power Users](power),
@@ -72,11 +72,11 @@ For the independent technical expert roles, this is expected to look like:
 
 For the Bitcoin business roles, it is expected to look like:
 
- * Industry: Unsurprisingly, focussed on the [Industry](industry) phase,
+ * **Industry**: Unsurprisingly, focussed on the [Industry](industry) phase,
    and on reporting the findings from that phase during the
    [Investor](investor) phase.
 
- * Entrepreneurs: This guide focusses on minimising the risks of
+ * **Entrepreneurs**: This guide focusses on minimising the risks of
    consensus changes, so has few suggestions on how to benefit from
    embracing risk. One approach that may make sense is in providing
    funding for independent technical researchers in the [R&D](research),
@@ -86,7 +86,7 @@ For the Bitcoin business roles, it is expected to look like:
    access to expertise in this manner in regards to new features may be
    able to be leveraged into a time to market advantage as well.
 
- * Miners: This guide only recommends miners focus on proposals at two stages,
+ * **Miners**: This guide only recommends miners focus on proposals at two stages,
    during the [Investor](investor) review phase, to ensure that any changes that
    may be problematic to their business are caught before being finalised, and
    then during the [Activation](activation) phase, in order to expedite deployment
@@ -96,12 +96,12 @@ For the Bitcoin business roles, it is expected to look like:
 
 Finally, for the oversight roles, this is expected to look like:
 
- * Investors: This guide assumes that the soft fork process should be optimised
+ * **Investors**: This guide assumes that the soft fork process should be optimised
    for investors, minimising the work they have to do, but maximising the influence
    they can exert. Hence, they are focussed on the single [Investor](investor) phase
    that acts as the key gateway for establishing social consensus.
 
- * Auditors: The accountants among us are expected to be involved in the
+ * **Auditors**: The accountants among us are expected to be involved in the
    [Investor](investor) phase, to ensure that proposed changes don't
    break their ability to do their job, and to quickly upgrade to new
    features during the [Activation](activation) phase to ensure that
