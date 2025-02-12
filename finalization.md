@@ -4,7 +4,7 @@ layout: default
 nav_order: 6
 ---
 
-# Finalization
+# Finalization Phase
 
 | Work : **Protocol Developers**, **Maintainers** |
 
