@@ -14,7 +14,7 @@ researchers and developers on board.
 
 At a very high level, this will generally involve:
 
- * Describing your idea at level suitable for [optech](https://bitcoinops.org/)
+ * Describing your idea at a level suitable for [optech](https://bitcoinops.org/)
  * Comparing your idea to similar ideas from the past
  * Documenting the tradeoffs of your idea versus other approaches
  * Taking feedback about the drawbacks and trying to fix them
