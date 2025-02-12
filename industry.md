@@ -12,14 +12,15 @@ nav_order: 4
 
 Most changes to Bitcoin will have some impact on existing Bitcoin
 businesses. This phase is about ensuring that those impacts are
-understood, and that any negative impacts are far outweighed by the
-positive.
+understood, that any negative impacts are far outweighed by the
+positive, and, ultimately, that the impacts are large enough to be
+worth the effort.
 
 At a minimum, this involves contacting impacted projects, talking to
 the people maintaining them, and seeing if the change integrates easily,
 and if any problems can be resolved. If you find things to improve here,
-it's important to go back and improve them, whether that's tweaking the
-implementation or a major redesign.
+it's important to go back and improve them, whether that's a small tweak
+to the implementation or a major redesign.
 
 Ideally, it would be desirable to have experimental releases of affected
 products that include updates to support or adapt to the proposed changes.
