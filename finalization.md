@@ -8,7 +8,7 @@ nav_order: 6
 
 | Work : **Protocol Developers**, **Maintainers** |
 
-Once everybody's on board with the proposal, then it it time for the
+Once everybody's on board with the proposal, then it is time for the
 final steps:
 
  * Make sure the BIPs exist, are thorough and are clear
