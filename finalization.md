@@ -20,3 +20,7 @@ final steps:
    node implementations, libraries, wallets, etc)
 
 ![](img/finalize.jpg)
+
+Previous: [Investor Review](investor)
+
+Next: [Activation](activation)

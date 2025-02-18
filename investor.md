@@ -28,3 +28,6 @@ productive use.
 
 ![](img/investor.jpg)
 
+Previous: [Industry Evaluation](industry)
+
+Next: [Finalization](finalization)

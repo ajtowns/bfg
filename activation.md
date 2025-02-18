@@ -58,3 +58,5 @@ likely to work without any problems. The approach recommended here is as follows
    the change is desirable, do a flag day activation.
 
 ![](img/activate.jpg)
+
+Previous: [Finalization](finalization)

@@ -30,5 +30,5 @@ This guide considers participants in Bitcoin's consensus process to be
 divided into a variety of roles, which are described in more detail in
 the [Roles](roles) page.
 
-| ![bfg discussings the bfg](img/bfg.jpg) |
+| ![bfg discussing the bfg](img/bfg.jpg) |
 | *A Big Friendly Giant reads the Bitcoin Forking Guide* |

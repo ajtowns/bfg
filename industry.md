@@ -33,3 +33,7 @@ enough to warrant involvement from industry, and that the implementation
 works as promised.
 
 ![](img/industry.jpg)
+
+Previous: [Power User Exploration](power)
+
+Next: [Investor Review](investor)
