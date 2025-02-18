@@ -30,3 +30,7 @@ The main goals at this phase should be:
    better or worse
 
 ![](img/rnd.jpg)
+
+Previous: [Roles](roles)
+
+Next: [Power User Exploration](power)

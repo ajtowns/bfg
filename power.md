@@ -36,3 +36,7 @@ The latter point is especially key in order to make progress through the next
 phase.
 
 ![](img/power.jpg)
+
+Previous: [Research and Development](research)
+
+Next: [Industry Evaluation](industry)
